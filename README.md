@@ -70,11 +70,13 @@ Technologies:
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vidigalgabriel&show_icons=true&theme=tokyonight"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidigalgabriel&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vidigalgabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidigalgabriel&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 
 ---
 
