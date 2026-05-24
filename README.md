@@ -58,13 +58,12 @@
 
 ### Contact
 <p align="center">
-  <a href="https://linkedin.com/in/gabriel-vidigal22">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vidigalgabriel@gmail.com">
-    <img src="https://shields.io"/>
+  <a href="https://linkedin.com/in/gabriel-vidigal22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 <p align="center">
   📧 <strong>vidigalgabriel@gmail.com</strong>
 </p>
+
