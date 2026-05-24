@@ -1,94 +1,69 @@
 <h1 align="center">Gabriel Vidigal</h1>
 
 <p align="center">
-  Full Stack Developer • Data Analysis • Automation
+  Backend Development • Data Engineering • Business Intelligence
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+APIs+and+Data+Pipelines;Large-Scale+Data+Processing;Full+Stack+Applications;Python+%7C+Node.js+%7C+Power+BI" />
 </p>
 
 ---
 
-## About Me
+### Stack
 
-Computer Science student focused on Full Stack Development, Data Analysis and Automation.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,dotnet,nodejs,express,react,mongodb,mysql,postgres,git,linux" />
+</p>
 
-Experience building:
-- Web applications
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+### Focus Areas
+
+- Backend Development
 - REST APIs
-- ETL pipelines
-- Dashboards and data visualization
-- Automation and data processing systems
-
-Currently working with backend development, large-scale data analysis and modern web technologies.
-
----
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,react,mongodb,mysql,git,html,css,bootstrap)](https://skillicons.dev)
-
----
-
-## Data & BI
-
-- Power BI
-- Pandas
 - ETL Pipelines
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-
----
-
-## Featured Projects
-
-### Chess Data Analysis
-- Processed 5M+ chess matches
-- Built ETL pipeline (PGN → CSV)
-- Temporal analysis from 1800+
-- Interactive visualizations with Python and React
-
-### ENEM Dashboard
-- Analysis of Brazilian educational microdata
-- Interactive Power BI dashboard
-- State-by-state educational metrics
-
-### Financial Control API
-- REST API for income/expense management
-- CRUD operations
-- Data visualization integration
-
-### Elos de Inclusão
-Full Stack platform connecting parents of children with disabilities and tutors.
-
-Technologies:
-- Node.js
-- Express
-- MongoDB
-- EJS
-- JavaScript
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidigalgabriel&theme=tokyonight"/>
-
-</div>
-
----
-
-## Contact
-
-- LinkedIn: https://linkedin.com/in/gabriel-vidigal22
-- Email: vidigalgabriel@gmail.com
-
----
-
-## Currently Learning
-
-- Advanced Backend Architecture
-- Data Engineering
+- Data Analysis & Visualization
+- Business Intelligence
 - Automation Systems
-- Scalable APIs
-- Cloud Technologies
+
+---
+
+### Projects
+
+- Chess analytics platform processing 5M+ matches with ETL pipelines and historical analysis
+- Educational microdata dashboard with Power BI and EDA workflows
+- Financial management REST API with data visualization
+- Full Stack accessibility platform connecting tutors and families
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vidigalgabriel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidigalgabriel&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidigalgabriel&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Contact
+
+<p align="center">
+  <a href="https://linkedin.com/in/gabriel-vidigal22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:vidigalgabriel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
