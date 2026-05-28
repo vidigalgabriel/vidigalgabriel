@@ -13,7 +13,7 @@
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cs,dotnet,nodejs,express,react,mongodb,mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,git,linux" />
 </p>
 
 <p align="center">
